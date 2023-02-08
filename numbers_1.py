@@ -43,5 +43,5 @@ print(mul, po, po_1, floors, divm,mod)
 tax = 12.5/100
 price = 100.50
 price * tax # this is assigned to a variable _
-price + _
-round(_,2)
+#price + _
+#round(_,2)
