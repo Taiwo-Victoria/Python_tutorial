@@ -33,7 +33,7 @@ for num in range(2, 10): #equivalent of...for n in [2,3,4,5,6,7,8,9]:
     print("Found an odd number", num)
 
 
-#Pass statement
+#Pass statement (does nothing)
 class MyPassClass:
     pass
 
