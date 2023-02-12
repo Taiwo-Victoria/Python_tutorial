@@ -10,7 +10,6 @@ DRY!....Don't repeat yourself
 Pythons standard library can be found here https://docs.python.org/3/library/
 '''
 
-
 from my_functions import demo_func
 
 def func_1(arg:int):
@@ -22,4 +21,5 @@ def func_2(number:int, power:int):
     print(pow(number,power))
 
 testing = demo_func(56)
+print(testing)
 func_1(testing)
